@@ -29,7 +29,7 @@ Python-based script for bulk threat intelligence lookups using **VirusTotal** an
 
 ---
 
-## 📝 Usage
+## Usage
 
 1. **Install dependencies:**
 
@@ -43,6 +43,7 @@ Run the scripts:
 
 python hash_checker.py
 python ip_checker.py
+
 Check Output:
 
 Output Excel files will contain scan results with hyperlinks to detailed reports.
