@@ -52,7 +52,7 @@ Output Excel files will contain scan results with hyperlinks to detailed reports
 
 | Hash / IP Address | Score             | Reports | Reference         |
 |-------------------|------------------|---------|-------------------|
-| abc123...         | Malicious (5/70) | -       | [VirusTotal Link](https://...) |
-| 103.56.12.9       | 85               | 142     | [AbuseIPDB Link](https://...) |
+| d5d59693f6ee671a4cfa170b43e8079d7c7a22f50ad87ff3d6e50069a242757a        | Malicious (26/70) | -       | [VirusTotal Link](https://www.virustotal.com/gui/file/d5d59693f6ee671a4cfa170b43e8079d7c7a22f50ad87ff3d6e50069a242757a) |
+| 160.191.51.211      | 100             | 493     | [AbuseIPDB Link](https://www.abuseipdb.com/check/160.191.51.211) |
 
 
